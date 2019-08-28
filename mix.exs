@@ -31,7 +31,7 @@ defmodule Issues.MixProject do
 
   defp escript_config do
     [
-      main_module: Issues.Cli
+      main_module: Issues.CLI
     ]
   end
 end
